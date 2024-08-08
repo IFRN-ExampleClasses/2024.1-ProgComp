@@ -1,0 +1,28 @@
+Capital;UF;População 2022
+São Paulo;São Paulo;11451245
+Rio de Janeiro;Rio de Janeiro;6211423
+Brasília;Distrito Federal;2817068
+Fortaleza;Ceará;2428708
+Salvador;Bahia;2417678
+Belo Horizonte;Minas Gerais;2315560
+Manaus;Amazonas;2063547
+Curitiba;Paraná;1773733
+Recife;Pernambuco;1488920
+Goiânia;Goiás;1437237
+Porto Alegre;Rio Grande do Sul;1332833
+Belém;Pará;1303375
+São Luís;Maranhão;1037775
+Maceió;Alagoas;957916
+Campo Grande;Mato Grosso do Sul;897938
+Teresina;Piauí;866300
+João Pessoa;Paraíba;833932
+Natal;Rio Grande do Norte;751300
+Cuiabá;Mato Grosso;650912
+Aracaju;Sergipe;602757
+Florianópolis;Santa Catarina;537213
+Porto Velho;Rondônia;460413
+Macapá;Amapá;442933
+Boa Vista;Roraima;413486
+Rio Branco;Acre;364756
+Vitória;Espírito Santo;322869
+Palmas;Tocantins;302692
